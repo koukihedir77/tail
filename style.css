@@ -1,0 +1,17 @@
+.hero{
+
+    width: 100%;
+    justify-content: center;
+}
+#herosec{
+
+    display: flex;
+    justify-content: center;
+}
+.herosec{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    }
